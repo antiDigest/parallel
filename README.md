@@ -1,2 +1,2 @@
-# mpi
-MPI programs shared here !
+# parallel
+MPI and OPENMP programs shared here !
