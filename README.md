@@ -8,5 +8,6 @@ How to run the MPI programs
 
 
 How to run Open mp program
+
 1. gcc \< program name\> fopenmp
 2. ./a.out
