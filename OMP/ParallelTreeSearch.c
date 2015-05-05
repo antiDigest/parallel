@@ -18,7 +18,7 @@ void  createTree(int i){
 
 void searchTree(int data,int i){
 	int k;
-	if(tree[i]!=0&&found==0){
+	if(tree[i]!=0){
 	if(tree[i]==data){
 		printf("Node at %d \n",i);
 	}
